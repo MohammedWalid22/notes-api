@@ -1,0 +1,38 @@
+[
+  {
+    "id": "170700100001",
+    "title": "Learn Node.js",
+    "content": "Understand Node.js core modules and event loop",
+    "createdAt": "2025-02-01T10:30:00Z"
+  },
+  {
+    "id": "170700100002",
+    "title": "Build Notes API",
+    "content": "Create a file-based Notes API using http and fs modules",
+    "createdAt": "2025-02-02T14:15:00Z"
+  },
+  {
+    "id": "170700100003",
+    "title": "JavaScript",
+    "content": "Updated note content",
+    "createdAt": "2025-02-03T18:45:00Z"
+  },
+  {
+    "id": "170700100004",
+    "title": "Practice HTTP Methods",
+    "content": "Test GET, POST, PUT, DELETE using Postman",
+    "createdAt": "2025-02-04T09:20:00Z"
+  },
+  {
+    "id": "170700100005",
+    "title": "Prepare for Express",
+    "content": "Finish Node basics before moving to Express framework",
+    "createdAt": "2025-02-05T21:00:00Z"
+  },
+  {
+    "id": "170700100009",
+    "title": "Learn Node.js",
+    "content": "Understand Node.js core modules and event loop",
+    "createdAt": "2025-02-01T10:30:00Z"
+  }
+]
